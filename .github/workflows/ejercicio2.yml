@@ -1,6 +1,6 @@
 name: Linteo
 
-on: push
+on: pull_request
 
 jobs: 
   tareas:
