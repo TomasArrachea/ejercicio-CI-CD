@@ -1,4 +1,4 @@
-name: Mi workflow
+name: Linteo
 
 on: push
 
